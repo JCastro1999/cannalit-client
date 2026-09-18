@@ -1,6 +1,8 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/JCastro1999/cannalit-frontend.git
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = https://github.com/JCastro1999/cannalit-backend.git
+	branch = main
